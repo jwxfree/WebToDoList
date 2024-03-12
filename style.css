@@ -1,0 +1,22 @@
+@media screen and (min-width: 720px){
+body{
+    font-style: Inter, sans-serif;
+    background-image: url(https://img.freepik.com/free-photo/sunset-silhouettes-trees-mountains-generative-ai_169016-29371.jpg?w=900&t=st=1710254025~exp=1710254625~hmac=841f93644860bbf9a2628e1196000ed566b2f05ae913e9b8fa0069940ce8d638);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
+
+.todo-card{
+    position: absolute;
+    inset: 20vh 0 0 0;
+    
+    
+}
+.card{
+    box-shadow: -1px 14px 39px -12px rgba(255,255,255,0.8);
+    -webkit-box-shadow: -1px 14px 39px -12px rgba(255,255,255,0.8);
+    -moz-box-shadow: -1px 14px 39px -12px rgba(255,255,255,0.8);
+}
+}
